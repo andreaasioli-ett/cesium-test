@@ -11,14 +11,20 @@
 "orientation": "any",
 "icons": [
     {
-        "src": "./icon512.png",
+        "src": "https://andreaasioli-ett.github.io/cesium-test/icon512.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
     },
     {
-        "src": "./icon_192.png",
+        "src": "https://andreaasioli-ett.github.io/cesium-test/icon192.png",
         "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    },
+    {
+        "src": "https://andreaasioli-ett.github.io/cesium-test/icon144.png",
+        "sizes": "144x144",
         "type": "image/png",
         "purpose": "any"
     }
