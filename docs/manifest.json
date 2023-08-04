@@ -1,0 +1,27 @@
+{
+"name": "cesium-test",
+"short_name": "cesium-test",
+"start_url": "https://andreaasioli-ett.github.io/cesium-test/",
+"display": "standalone",
+"description": "cesium-test",
+"lang": "en",
+"dir": "auto",
+"theme_color": "#000000",
+"background_color": "#000000",
+"orientation": "any",
+"icons": [
+    {
+        "src": "./icon512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "./icon_192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"prefer_related_applications": false
+}
