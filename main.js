@@ -1,6 +1,6 @@
 import { Viewer } from 'cesium';
-import './style.css'
-import CesiumViewer from './viewer.js'
+import './style.css';
+import CesiumViewer from './viewer.js';
 
 
 
