@@ -1,0 +1,748 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.01.01",
+              "firstReportTime": 1665656669,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F8d1793ae-9cf7-4dcd-9a3f-dee9d384d049.jpg?alt=media&token=ea809806-cdd0-4524-8df8-cf4ef9cbdcae",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.408804809743856,
+                "lng": 8.92355415970087
+              },
+              "name": "Magazzini del cotone M01"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.92355415970087,
+            44.408804809743856
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.01.02",
+              "firstReportTime": 1645094773,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F7c378231-7203-4183-a149-f9582c5b0303.jpg?alt=media&token=7a337f1d-45e5-4d8a-ba3f-adc30c7150fa",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.408715951606425,
+                "lng": 8.923178985714912
+              },
+              "name": "Magazzini del cotone M02"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.923178985714912,
+            44.408715951606425
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.01.05",
+              "firstReportTime": 1645024980,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F7f0dabe6-c132-483a-ac54-719ff8a1cde8.jpg?alt=media&token=eb9c473f-27c8-4856-8b80-c3184941a355",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.40842973654053,
+                "lng": 8.921987079083916
+              },
+              "name": "Magazzini del cotone M05"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.921987079083916,
+            44.40842973654053
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.01.09",
+              "firstReportTime": 1670341600,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2Fd2b7ab15-7d39-433b-aa9d-93bc5119e9e9.jpg?alt=media&token=eb6ca642-377f-4241-8448-0ab2509edb77",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.408047236015136,
+                "lng": 8.920398205518723
+              },
+              "name": "Centro congressi M09"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.920398205518723,
+            44.408047236015136
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.01.10",
+              "firstReportTime": 1670341440,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F133280e0-b5ce-4e3f-a7b4-95747644569d.jpg?alt=media&token=08ec9214-7de1-4213-9045-cb5f58df1a77",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.40793035365445,
+                "lng": 8.919917419552803
+              },
+              "name": "Centro Congressi M10"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.919917419552803,
+            44.40793035365445
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.01.11",
+              "firstReportTime": 1670341238,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2Fbb1fdf81-cd37-4834-a293-ecc2bda6b14b.jpg?alt=media&token=0c87b8b4-e2c1-488c-b1a0-16ddfada28d6",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.407777424221734,
+                "lng": 8.919300511479378
+              },
+              "name": "Centro Congressi M11"
+            },
+            {
+              "buildingId": "PA.01.11",
+              "firstReportTime": 1670341117,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F6111d17a-b2ad-468f-bfb9-6bacece20bc3.jpg?alt=media&token=f118cb24-948f-485f-a1db-5c7ffc4f8c66",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.407777424221734,
+                "lng": 8.919300511479378
+              },
+              "name": "Centro Congressi M11"
+            },
+            {
+              "buildingId": "PA.01.11",
+              "firstReportTime": 1670340937,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F82e07584-980c-47dd-91e7-107ea5180043.jpg?alt=media&token=799c7999-9dce-433c-a82b-3ed32f7ae449",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.407777424221734,
+                "lng": 8.919300511479378
+              },
+              "name": "Centro Congressi M11"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.919300511479378,
+            44.407777424221734
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.03.01",
+              "firstReportTime": 1644664699,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2Fd9bf2e46-3d4b-4ac6-8729-cb84a2f2750c.jpg?alt=media&token=e31e3ce6-5080-480a-b34f-283eec18debe",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.40777490901412,
+                "lng": 8.924730475991964
+              },
+              "name": "Porta Siberia"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.924730475991964,
+            44.40777490901412
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.06.02",
+              "firstReportTime": 1645018045,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F546539a6-c257-4951-bdcf-b74b7002c9be.jpg?alt=media&token=a85573df-f975-44d1-ab32-0508bd18fc0a",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.40833860266842,
+                "lng": 8.927349150180817
+              },
+              "name": "Edificio Millo M02"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.927349150180817,
+            44.40833860266842
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.09.01",
+              "firstReportTime": 1670322043,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F2ce47d2c-aa77-444a-93f1-b7358d5bf705.jpg?alt=media&token=3c54ea7d-054e-414c-829d-6112de177786",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.408197530228506,
+                "lng": 8.927717786282301
+              },
+              "name": "Palazzo San Lorenzo"
+            },
+            {
+              "buildingId": "PA.09.01",
+              "firstReportTime": 1670321923,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F9df5ae40-a30a-4953-a1c6-599ac908b5e6.jpg?alt=media&token=7a86be6b-f348-44a3-8444-2b95c85002bd",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.408197530228506,
+                "lng": 8.927717786282301
+              },
+              "name": "Palazzo San Lorenzo"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.927717786282301,
+            44.408197530228506
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.10.01",
+              "firstReportTime": 1644406852,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2Fc9a8011e-6e07-4522-805a-e28d737e8d8b.jpg?alt=media&token=7b93f7e2-e307-4742-a793-d46eb1166ec4",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.408467220264484,
+                "lng": 8.927858099341393
+              },
+              "name": "Palazzo San Giobatta"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.927858099341393,
+            44.408467220264484
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.05.01",
+              "firstReportTime": 1670322647,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F0c3faf2c-a2fc-459c-8dc1-e26fb3d3eeb0.jpg?alt=media&token=76541ac6-00c8-4780-924e-17e8532561bf",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.40774209615382,
+                "lng": 8.927408996969461
+              },
+              "name": "Camminamento di ronda"
+            },
+            {
+              "buildingId": "PA.05.01",
+              "firstReportTime": 1670322521,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2Ff67c465e-b9e3-4948-ac47-f240b1f74437.jpg?alt=media&token=e03e3ff2-d8bd-4792-9e85-635608586506",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.40774209615382,
+                "lng": 8.927408996969461
+              },
+              "name": "Camminamento di ronda"
+            },
+            {
+              "buildingId": "PA.05.01",
+              "firstReportTime": 1670322317,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2Fffe7834e-8bce-4575-a890-5cfdc293edc8.jpg?alt=media&token=7546dd1e-2aed-43af-8f30-5ea62daac2d9",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.40774209615382,
+                "lng": 8.927408996969461
+              },
+              "name": "Camminamento di ronda"
+            },
+            {
+              "buildingId": "PA.05.01",
+              "firstReportTime": 1670322201,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2Fed0dea91-d890-4664-ac10-2264c3773306.jpg?alt=media&token=e41ce459-395d-44b8-8009-384df2225c19",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.40774209615382,
+                "lng": 8.927408996969461
+              },
+              "name": "Camminamento di ronda"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.927408996969461,
+            44.40774209615382
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.14.01",
+              "firstReportTime": 1670321985,
+              "imgUrl": "https://firebasestorage.googleapis.com:443/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F57534ED6-2423-4A18-9DF2-FDE0BF84872F.jpg?alt=media&token=d3e3ca52-9245-474e-93c5-d7bfa4053324",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.41014904194479,
+                "lng": 8.926290348172188
+              },
+              "name": "Acquario"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.926290348172188,
+            44.41014904194479
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.49.01",
+              "firstReportTime": 1670320641,
+              "imgUrl": "https://firebasestorage.googleapis.com:443/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F5D1F3039-9A16-4540-843B-CF2FDAA4B355.jpg?alt=media&token=fbc2c319-9936-403e-91a9-7bb9884a1f07",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.41006868853607,
+                "lng": 8.923864457756281
+              },
+              "name": "Via del Mare"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.923864457756281,
+            44.41006868853607
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.21.01",
+              "firstReportTime": 1670322089,
+              "imgUrl": "https://firebasestorage.googleapis.com:443/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F59F1A10B-80AD-442E-91EF-3CEAD0134CB7.jpg?alt=media&token=ada3e994-bb0a-47d5-aead-11f7c7f9471c",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.41017933903117,
+                "lng": 8.926530741155148
+              },
+              "name": "Ponte Spinola"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.926530741155148,
+            44.41017933903117
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.26.01",
+              "firstReportTime": 1670320776,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F058546c1-9c5d-43bc-9d15-82d021f55b25.jpg?alt=media&token=46cfaa36-4185-4fdb-be44-cf365d8f1920",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.40914227719834,
+                "lng": 8.927001804113388
+              },
+              "name": "Ponte Embriaco"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.927001804113388,
+            44.40914227719834
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.28.01",
+              "firstReportTime": 1670322892,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2Fa781f33e-14b2-4568-9f47-152c70de8ed8.jpg?alt=media&token=4ca27fcc-21eb-4519-81dd-25f5ad9295a6",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.40767670439263,
+                "lng": 8.926506265997887
+              },
+              "name": "Piazzale Mandraccio"
+            },
+            {
+              "buildingId": "PA.28.01",
+              "firstReportTime": 1670322827,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F05772719-fa04-42ab-b331-d9daef4e03cf.jpg?alt=media&token=749782ab-3762-4428-b346-95ced426c4bf",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.40767670439263,
+                "lng": 8.926506265997887
+              },
+              "name": "Piazzale Mandraccio"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.926506265997887,
+            44.40767670439263
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.35.01",
+              "firstReportTime": 1644404892,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F02ac905b-1047-44fb-8de4-fffa99642c74.jpg?alt=media&token=e433750e-a09a-4b1e-872e-163206417e95",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.40834854205477,
+                "lng": 8.924545571208014
+              },
+              "name": "Piazzale Siberia"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.924545571208014,
+            44.40834854205477
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.36.01",
+              "firstReportTime": 1670342121,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F2414ecfe-d28b-47fe-9e0c-3abee177a656.jpg?alt=media&token=fed6c621-5c87-47df-b83d-4ddc92d87ded",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.40853751249581,
+                "lng": 8.921481315046549
+              },
+              "name": "Calata Molo Vecchio"
+            },
+            {
+              "buildingId": "PA.36.01",
+              "firstReportTime": 1644403949,
+              "imgUrl": "https://firebasestorage.googleapis.com/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F2c59ddc8-d41d-4fc8-be43-153ed05c4519.jpg?alt=media&token=ce52e26d-f4ca-413f-bed0-2bf58c6cf9f7",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.40853751249581,
+                "lng": 8.921481315046549
+              },
+              "name": "Calata Molo Vecchio"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.921481315046549,
+            44.40853751249581
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.39.01",
+              "firstReportTime": 1659203400,
+              "imgUrl": "https://firebasestorage.googleapis.com:443/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F0C953892-F798-47F0-804A-62BFF90648DB.jpg?alt=media&token=966ca1e5-fbaa-43ea-85d8-2bad83c2c25d",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.40814950697282,
+                "lng": 8.922380357980728
+              },
+              "name": "Via Magazzini Generali"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.922380357980728,
+            44.40814950697282
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.41.01",
+              "firstReportTime": 1673740702,
+              "imgUrl": "https://firebasestorage.googleapis.com:443/v0/b/ett-must.appspot.com/o/images%2Ffailures%2FE6257C95-B741-4CD5-941B-C01767DEBBF3.jpg?alt=media&token=e8ad8e2d-41df-4302-8e85-336ba9ee37b4",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.407526293063675,
+                "lng": 8.924338538199663
+              },
+              "name": "Piazzale Cannoniere"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.924338538199663,
+            44.407526293063675
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.24.01",
+              "firstReportTime": 1670322688,
+              "imgUrl": "https://firebasestorage.googleapis.com:443/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F0E8FD6D6-F6F6-4A31-9648-AA8C21805547.jpg?alt=media&token=25c95157-a2a8-42fc-bb20-f4237e3ab3c7",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.410291427129415,
+                "lng": 8.92788726836443
+              },
+              "name": "Piazza Falcone e Borsellino"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.927752487361431,
+            44.40948069891519
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.24.01",
+              "firstReportTime": 1670322688,
+              "imgUrl": "https://firebasestorage.googleapis.com:443/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F0E8FD6D6-F6F6-4A31-9648-AA8C21805547.jpg?alt=media&token=25c95157-a2a8-42fc-bb20-f4237e3ab3c7",
+              "isHorizontal": true,
+              "center": {
+                "lat": 44.410291427129415,
+                "lng": 8.92788726836443
+              },
+              "name": "Piazza Falcone e Borsellino"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.92788726836443,
+            44.410291427129415
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "S2",
+          "displayer": "failureDisplayer",
+          "markerArray": [
+            {
+              "buildingId": "PA.13.01",
+              "firstReportTime": 1670322562,
+              "imgUrl": "https://firebasestorage.googleapis.com:443/v0/b/ett-must.appspot.com/o/images%2Ffailures%2F50E6AE61-14CE-45EB-AA35-FF0F50C2C86C.jpg?alt=media&token=e387e331-d6e9-4d4c-a38e-5be27c4031be",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.41014772494039,
+                "lng": 8.927913419902325
+              },
+              "name": "Biglietteria Acquario"
+            },
+            {
+              "buildingId": "PA.13.01",
+              "firstReportTime": 1670322334,
+              "imgUrl": "https://firebasestorage.googleapis.com:443/v0/b/ett-must.appspot.com/o/images%2Ffailures%2FE200CE51-5DE0-4105-B1B2-B95FB3629AED.jpg?alt=media&token=7b9d8c27-43b3-4806-908c-973b48ccc26a",
+              "isHorizontal": false,
+              "center": {
+                "lat": 44.41014772494039,
+                "lng": 8.927913419902325
+              },
+              "name": "Biglietteria Acquario"
+            }
+          ],
+          "color": "#83A485"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.927913419902325,
+            44.41014772494039
+          ]
+        }
+      }
+    ]
+  }
