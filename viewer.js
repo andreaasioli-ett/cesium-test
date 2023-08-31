@@ -22,7 +22,7 @@ export default class CesiumViewer{
 
     static getImageryProvider(){
         return new Cesium.WebMapTileServiceImageryProvider({
-            url : 'https://c.basemaps.cartocdn.com/light_nolabels/{TileMatrix}/{TileCol}/{TileRow}.png',
+            url : 'https://c.basemaps.cartocdn.com/dark_all/{TileMatrix}/{TileCol}/{TileRow}.png',
             layer : 'carto-light',
             style : 'default',
             format : 'image/jpeg',
@@ -63,20 +63,57 @@ export default class CesiumViewer{
     }
 
     togglePointCloud() {
+
         if (this.pointCloud) {
             this.viewer.scene.primitives.remove(this.pointCloud);
             this.pointCloud = null;
         } else {
             this.pointCloud = this.viewer.scene.primitives.add(new Cesium.Cesium3DTileset({
-                url : './data/tileset.json'
+                url : './ischia_dtm/tileset.json'
             }));
+            // this.pointCloud.pointCloudShading.attenuation = true;
+            // this.pointCloud.pointCloudShading.eyeDomeLighting = true;
+            this.pointCloud.style = new Cesium.Cesium3DTileStyle({
+                color: "${COLOR}"
+            });
+
+            this.viewer.zoomTo(this.pointCloud);
+
+            this.pointCloud.readyPromise.then(function(tileset) {
+                const cartographic = Cesium.Cartographic.fromCartesian(
+                    tileset.boundingSphere.center
+                );
+                const surface = Cesium.Cartesian3.fromRadians(
+                    cartographic.longitude,
+                    cartographic.latitude,
+                    -1.0
+                );
+                const offset = Cesium.Cartesian3.fromRadians(
+                    cartographic.longitude,
+                    cartographic.latitude,
+                    -250.0
+                );
+                const translation = Cesium.Cartesian3.subtract(
+                    offset,
+                    surface,
+                    new Cesium.Cartesian3()
+                );
+                tileset.modelMatrix = Cesium.Matrix4.fromTranslation(translation);
+
+            
+            });
+
+            this.pointCloud.maximumScreenSpaceError = 16.0;
+            this.pointCloud.pointCloudShading.maximumAttenuation = 4.0; // Don't allow points larger than 4 pixels.
+            this.pointCloud.pointCloudShading.baseResolution = 0.05; // Assume an original capture resolution of 5 centimeters between neighboring points.
+            this.pointCloud.pointCloudShading.geometricErrorScale = 0.5; // Applies to both geometric error and the base resolution.
             this.pointCloud.pointCloudShading.attenuation = true;
             this.pointCloud.pointCloudShading.eyeDomeLighting = true;
-            this.pointCloud.style = new Cesium.Cesium3DTileStyle({
-                color: "rgb(${Intensity}, ${Intensity}, ${Intensity})",
-            });
-            // this.viewer.zoomTo(this.pointCloud);
         }
+
+
+
+
     }
 
     togglePOI() {
